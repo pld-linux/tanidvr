@@ -1,12 +1,12 @@
 Summary:	A tool for DVRs based on the DVR-IP protocol
 Name:		tanidvr
-Version:	1.2.0
+Version:	1.4.0
 Release:	1
 License:	BSD
 Group:		Applications/Graphics
 URL:		http://tanidvr.sourceforge.net
 Source0:	http://downloads.sourceforge.net/tanidvr/%{name}-%{version}.tar.bz2
-# Source0-md5:	3add736b049ad0ebee0cfa3443badd8a
+# Source0-md5:	fd952dd786e934879c60987cd2184d98
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
